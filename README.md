@@ -10,4 +10,4 @@ Write code that prints out numbers 1 - 30 in the console.
 
 ### Result
 
-![Alt text](relative/path/to/image.png?raw=true "Title")
+![Result img](https://github.com/TinaPhenole/FooBar_counter/blob/master/Result.png)
