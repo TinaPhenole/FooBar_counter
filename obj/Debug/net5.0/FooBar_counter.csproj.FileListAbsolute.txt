@@ -1,0 +1,16 @@
+D:\A.SkolaSUVNET20\Kurser\Tutorials\FooBar_counter\bin\Debug\net5.0\FooBar_counter.exe
+D:\A.SkolaSUVNET20\Kurser\Tutorials\FooBar_counter\bin\Debug\net5.0\FooBar_counter.deps.json
+D:\A.SkolaSUVNET20\Kurser\Tutorials\FooBar_counter\bin\Debug\net5.0\FooBar_counter.runtimeconfig.json
+D:\A.SkolaSUVNET20\Kurser\Tutorials\FooBar_counter\bin\Debug\net5.0\FooBar_counter.runtimeconfig.dev.json
+D:\A.SkolaSUVNET20\Kurser\Tutorials\FooBar_counter\bin\Debug\net5.0\FooBar_counter.dll
+D:\A.SkolaSUVNET20\Kurser\Tutorials\FooBar_counter\bin\Debug\net5.0\ref\FooBar_counter.dll
+D:\A.SkolaSUVNET20\Kurser\Tutorials\FooBar_counter\bin\Debug\net5.0\FooBar_counter.pdb
+D:\A.SkolaSUVNET20\Kurser\Tutorials\FooBar_counter\obj\Debug\net5.0\FooBar_counter.csproj.AssemblyReference.cache
+D:\A.SkolaSUVNET20\Kurser\Tutorials\FooBar_counter\obj\Debug\net5.0\FooBar_counter.GeneratedMSBuildEditorConfig.editorconfig
+D:\A.SkolaSUVNET20\Kurser\Tutorials\FooBar_counter\obj\Debug\net5.0\FooBar_counter.AssemblyInfoInputs.cache
+D:\A.SkolaSUVNET20\Kurser\Tutorials\FooBar_counter\obj\Debug\net5.0\FooBar_counter.AssemblyInfo.cs
+D:\A.SkolaSUVNET20\Kurser\Tutorials\FooBar_counter\obj\Debug\net5.0\FooBar_counter.csproj.CoreCompileInputs.cache
+D:\A.SkolaSUVNET20\Kurser\Tutorials\FooBar_counter\obj\Debug\net5.0\FooBar_counter.dll
+D:\A.SkolaSUVNET20\Kurser\Tutorials\FooBar_counter\obj\Debug\net5.0\ref\FooBar_counter.dll
+D:\A.SkolaSUVNET20\Kurser\Tutorials\FooBar_counter\obj\Debug\net5.0\FooBar_counter.pdb
+D:\A.SkolaSUVNET20\Kurser\Tutorials\FooBar_counter\obj\Debug\net5.0\FooBar_counter.genruntimeconfig.cache

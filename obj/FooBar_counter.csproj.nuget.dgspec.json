@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\A.SkolaSUVNET20\\Kurser\\Tutorials\\FooBar_counter\\FooBar_counter.csproj": {}
+    "D:\\A.SkolaSUVNET20\\Kurser\\Tutorials\\FooBar_counter\\FooBar_counter.csproj": {}
   },
   "projects": {
-    "d:\\A.SkolaSUVNET20\\Kurser\\Tutorials\\FooBar_counter\\FooBar_counter.csproj": {
+    "D:\\A.SkolaSUVNET20\\Kurser\\Tutorials\\FooBar_counter\\FooBar_counter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\A.SkolaSUVNET20\\Kurser\\Tutorials\\FooBar_counter\\FooBar_counter.csproj",
+        "projectUniqueName": "D:\\A.SkolaSUVNET20\\Kurser\\Tutorials\\FooBar_counter\\FooBar_counter.csproj",
         "projectName": "FooBar_counter",
-        "projectPath": "d:\\A.SkolaSUVNET20\\Kurser\\Tutorials\\FooBar_counter\\FooBar_counter.csproj",
+        "projectPath": "D:\\A.SkolaSUVNET20\\Kurser\\Tutorials\\FooBar_counter\\FooBar_counter.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "d:\\A.SkolaSUVNET20\\Kurser\\Tutorials\\FooBar_counter\\obj\\",
+        "outputPath": "D:\\A.SkolaSUVNET20\\Kurser\\Tutorials\\FooBar_counter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config"
